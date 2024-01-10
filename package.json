@@ -1,0 +1,38 @@
+{
+  "name": "nativescript-testing-demo2",
+  "main": "./src/main.ts",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "~17.0.0",
+    "@angular/common": "~17.0.0",
+    "@angular/compiler": "~17.0.0",
+    "@angular/core": "~17.0.0",
+    "@angular/forms": "~17.0.0",
+    "@angular/platform-browser": "~17.0.0",
+    "@angular/platform-browser-dynamic": "~17.0.0",
+    "@angular/router": "~17.0.0",
+    "@nativescript/angular": "^17.0.0",
+    "@nativescript/core": "~8.6.0",
+    "@nativescript/theme": "~3.0.2",
+    "@nativescript/unit-test-runner": "^3.0.4",
+    "rxjs": "~7.8.0",
+    "zone.js": "~0.14.2"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~17.0.0",
+    "@angular/compiler-cli": "~17.0.0",
+    "@jsdevtools/coverage-istanbul-loader": "3.0.5",
+    "@nativescript/android": "8.6.2",
+    "@nativescript/types": "~8.6.0",
+    "@nativescript/webpack": "~5.0.18",
+    "@ngtools/webpack": "~17.0.0",
+    "@types/jasmine": "5.1.4",
+    "karma": "6.4.2",
+    "karma-coverage": "2.2.1",
+    "karma-jasmine": "4.0.2",
+    "karma-nativescript-launcher": "0.4.0",
+    "nyc": "15.1.0",
+    "typescript": "~5.2.2"
+  }
+}
